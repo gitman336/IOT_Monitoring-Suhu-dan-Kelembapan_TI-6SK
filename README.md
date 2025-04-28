@@ -39,21 +39,3 @@ Desain Circuit:
 Foto Hasil:
 ![hasil](https://github.com/user-attachments/assets/ba694b21-195f-4a93-b8d0-eb85877c2173)
 ![Thingspeak](https://github.com/user-attachments/assets/23d1ebe9-eed6-46c1-a77d-ce1b679689a1)
-
-Desain Circuit: Desin
-
-Buat Channel di ThingSpeak https://thingspeak.mathworks.com/
-
-Daftar/login ke ThingSpeak
-Buat channel baru
-Aktifkan field 1 dan field 2 untuk suhu dan kelembapan
-Salin Write API Key
-Instal Library di Arduino IDE
-
-Melalui Library Manager:
-DHT sensor library by Adafruit
-ThingSpeak library
-ESP8266 board melalui Board Manager
-Upload Kode ke ESP8266
-
-Foto Hasil: hasil 
