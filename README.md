@@ -1,11 +1,15 @@
 # IOT-Monitor-Suhu-dan-Kelembapan
 
 Muhammad Lukmanul Khakim
+
 2208096068
+
 Teknologi Informasi
+
 UIN Walisongo Semarang
 
 TI-6SK
+
 Sistem Berbasis Internet Of Thinks
 
 Proyek ini merupakan implementasi sistem monitoring suhu dan kelembapan secara real-time menggunakan mikrokontroler ESP8266, sensor DHT11/DHT22, dan platform cloud ThingSpeak sebagai antarmuka visualisasi data. ESP8266 digunakan untuk membaca data dari sensor DHT11 dan menampilkannya ke layar LCD maupun mengirimkannya ke platform ThingSpeak. Sensor DHT11 dapat mendeteksi suhu dan kelembapan dengan cukup baik, dan datanya bisa diakses secara langsung dan jarak jauh. Layar LCD 16x2 menampilkan informasi suhu dan kelembapan secara real-time, sehingga memudahkan pemantauan secara langsung. Sistem ini juga mampu terhubung dengan WiFi dan mengirim data secara berkala ke internet, memungkinkan kita memantau kondisi lingkungan dari mana saja.
